@@ -14,7 +14,7 @@ A feature-rich scientific calculator with modern UI and multiple functionalities
 - WebAssembly integration
 
 ## Demo
-[Live Demo](https://yourusername.github.io/calculator/)
+[Live Demo](https://hhydraaa.github.io/calculator/)
 
 ## License
 GNU GPLv3 - See [LICENSE](LICENSE.md) for details."# calculator" 
