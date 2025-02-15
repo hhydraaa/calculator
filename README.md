@@ -9,7 +9,6 @@ A feature-rich scientific calculator with modern UI and multiple functionalities
 - Fraction calculations
 - Calculation history
 - Keyboard shortcuts
-- Theme switching
 - Responsive design
 - WebAssembly integration
 
