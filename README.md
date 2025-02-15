@@ -29,4 +29,4 @@ Open `index.html` in browser or deploy to any static hosting.
 Pull requests welcome! For major changes, please open an issue first.
 
 ## License
-GNU GPLv3 - See [LICENSE](LICENSE.md) for details.
+GNU GPLv3 - See [LICENSE](LICENSE.md) for details."# calculator" 
