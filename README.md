@@ -17,4 +17,4 @@ A feature-rich scientific calculator with modern UI and multiple functionalities
 [Live Demo](https://hhydraaa.github.io/calculator/)
 
 ## License
-GNU GPLv3 - See [LICENSE](LICENSE.md) for details."# calculator" 
+GNU GPLv3 - See [LICENSE](LICENSE) for details."# calculator" 
