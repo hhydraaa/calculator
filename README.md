@@ -10,7 +10,6 @@ A feature-rich scientific calculator with modern UI and multiple functionalities
 - Calculation history
 - Keyboard shortcuts
 - Responsive design
-- WebAssembly integration
 
 ## Demo
 [Live Demo](https://hhydraaa.github.io/calculator/)
